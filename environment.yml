@@ -1,0 +1,4 @@
+name: rlp-env
+channels:
+  - defaults
+prefix: /home/groot/anaconda3/envs/rlp-env
